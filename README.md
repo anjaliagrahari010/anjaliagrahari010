@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anjali Agrahari</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Anjali%20Agrahari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20|%20MCA%20Student&descAlignY=60"/>
+</p>
 <h3 align="center">MCA Student | Aspiring Software Developer | DSA Enthusiast 🚀</h3>
 
 <p align="center">
