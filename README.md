@@ -74,7 +74,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=anjaliagrahari010&theme=merko"/>
+<img src="https://streak-stats.demolab.com?user=anjaliagrahari010&theme=github-dark"/>
 
 </p>
 
