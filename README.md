@@ -53,12 +53,16 @@
 </p>
 
 ---
-##Coding Plateform
+## Coding Plateform
+
 <p align="left">
 <a href="https://leetcode.com/u/anjali_agrahari_010/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
----
+
+  ---
+
+  
 ## 📊 GitHub Stats
 
 <p align="center">
