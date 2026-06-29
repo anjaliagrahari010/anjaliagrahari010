@@ -11,11 +11,15 @@
 
 ## 👩‍💻 About Me 
 🧠 Currently strengthening my problem-solving skills by consistently solving Data Structures & Algorithms (DSA) problems on LeetCode.
+<p>
 🌐 Passionate about Web Development and building responsive, user-friendly applications.
-💻 Skilled in C++, SQL, HTML, CSS, Bootstrap, Python and Django.
-📚 Continuously learning new technologies and improving my development skills.
-🤝 Open to collaborating on interesting projects and contributing to open source
-
+</p>
+<p>
+💻 Skilled in C++, SQL, HTML, CSS, Bootstrap, Python and Django.</p>
+<p>📚 Continuously learning new technologies and improving my development skills.
+</p>
+<p>🤝 Open to collaborating on interesting projects and contributing to open source
+</p>
 ⚡ Fun fact: I love coding while listening to music 🎧
 
 ---
