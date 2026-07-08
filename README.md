@@ -63,11 +63,10 @@
 ---
 
 ## 🔥 GitHub Stats
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=anjaliagrahari010&theme=github-dark"/>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=anjaliagrahari010&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
