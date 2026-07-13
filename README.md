@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="">
 
 <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,bootstrap,javascript,django,mysql,sqlite,git,github,vscode,postman&perline=8"/>
 
@@ -43,21 +43,7 @@
 </p>
 
 ---
-# 🔥 GitHub Streak
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-
-
-
----
 
 ## 📈 Contribution Graph
 
@@ -78,16 +64,12 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/anjali-agrahari-114a64241/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/anjali_agrahari_010/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="YOUR_GFG">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="mailto:anjaliagrahari38@gmail.com">
