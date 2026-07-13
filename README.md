@@ -117,7 +117,8 @@
 </a>
 
 <a href="mailto:anjaliagrahari38@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail,github"/>
+
 </a>
 
 </p>
