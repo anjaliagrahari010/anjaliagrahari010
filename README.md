@@ -26,53 +26,26 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,bootstrap,javascript,django,mysql,sqlite,git,github,vscode,postman&perline=8"/>
 
 </p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=django,python"/>
-
-</p>
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-  ---
-
-
 
 ---
 
 ## 🔥 GitHub Stats
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anjaliagrahari010&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjaliagrahari010&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=anjaliagrahari010&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -110,19 +83,25 @@
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/anjali-agrahari==-1527ya-04">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="YOUR_GFG">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="mailto:anjaliagrahari38@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
-
 ---
 
 <p align="center">
