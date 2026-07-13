@@ -29,25 +29,30 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,c++,python" />
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql"/>
+
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django" />
-</p>
 
+<img src="https://skillicons.dev/icons?i=django,python"/>
+
+</p>
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 </p>
 
 ### Tools
@@ -64,9 +69,25 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjaliagrahari010&show_icons=true&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
+
 ---
+# 🔥 GitHub Streak
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
 
 
 
