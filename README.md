@@ -113,7 +113,6 @@
 <p>
 
 <a href="https://www.linkedin.com/in/anjali-agrahari==-1527ya-04">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
