@@ -43,7 +43,13 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anjaliagrahari010/anjaliagrahari010/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+----
 
 ## 📈 Contribution Graph
 
